@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Spawner : MonoBehaviour
 {
+
     public GameObject spawnPrenfab;  // プレイヤーのスポーン位置のプレハブ
 
     private float spawnIntval = 2f;
